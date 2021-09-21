@@ -1,5 +1,4 @@
 ---
-layout : post
 title: "I finally created my page!"
 ---
 

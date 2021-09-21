@@ -1,3 +1,7 @@
+---
+title: "BS"
+---
+
 ** BS ** : All informations are poorly researched and all opinions are probably shit. This text was probably written out of a whim and contains a lot of ideas that are unrelated to anyone but myself. I don't know why I do the things I do.
 
 ## AI and the future of work
