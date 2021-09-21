@@ -19,5 +19,5 @@ If you have a job, my profile interests you and you've somehow found this page, 
 
 When I'm not trying to get a job I'm a guy who loves history, talking culture and politics, indie music and getting a pinte with les potes. I'll update this when I'm rich enough to have a hobby.  
 I come from the beautiful city of Goiânia in central Brazil:  
-<img src="images/goiana.jpg" alt="Look! nao e so mato" style="width:100;"/>
+<img src="images/goiana.jpg" alt="Look! nao e so mato" style="width:70 px;"/>
 I moved to São José dos Campos in 2016 and then to Paris when I was 18. Among other funny anecdotes of this unusual path, I played military in 2 different countries
