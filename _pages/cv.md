@@ -48,9 +48,9 @@ Directed the student body`s PR department, managing a team, and was the main org
 
 ## SKILLS
 ---
-**Languages**: Portuguese (Native), French (Fluent), English (Fluent)
-**Programming Languages**: Python, C, C++, Java, Matlab, SQL
-**Frameworks**: Scikit-Learn, Pytorch, Tensorflowm,Spark
+**Languages**: Portuguese (Native), French (Fluent), English (Fluent)  
+**Programming Languages**: Python, C, C++, Java, Matlab, SQL  
+**Frameworks**: Scikit-Learn, Pytorch, Tensorflowm,Spark  
 
 ## ACADEMIC MERITS AND AWARDS
 ---
