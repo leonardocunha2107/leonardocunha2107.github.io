@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Leonardo Cunha/ Toilet"
+title                    : "Leonardo Cunha"
 title_separator          : "-"
 name                     : &name "Leonardo Cunha"
 description              : &description "MsC Machine Learning"
